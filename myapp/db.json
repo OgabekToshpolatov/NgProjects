@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung",
+      "category": "Samsung",
+      "condition": "Second Hand",
+      "price": "102",
+      "comment": "boladi",
+      "date": "2023-03-02T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Normaku",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "25",
+      "comment": "Norm phone",
+      "date": "2023-03-10T19:00:00.000Z",
+      "id": 3
+    }
+  ]
+}
