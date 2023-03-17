@@ -17,6 +17,51 @@
       "comment": "Norm phone",
       "date": "2023-03-10T19:00:00.000Z",
       "id": 3
+    },
+    {
+      "productName": "Redmi 10A",
+      "category": "Xiaomi",
+      "condition": "Second Hand",
+      "price": "1234",
+      "comment": "Support Xiomi Company ",
+      "date": "2023-03-09T19:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Redmi Not 9",
+      "category": "Xiaomi",
+      "condition": "New",
+      "price": "125",
+      "comment": "Support Xiomi Company binding ",
+      "date": "2023-03-10T19:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "A12",
+      "category": "Samsung",
+      "condition": "B/Y",
+      "price": "125",
+      "comment": "Samsung company ",
+      "date": "2023-03-02T19:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "IPhone 14",
+      "category": "Apple",
+      "condition": "New",
+      "price": "125",
+      "comment": "Field is configuration",
+      "date": "2023-02-28T19:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Vivo B8",
+      "category": "Vivo",
+      "condition": "New",
+      "price": "258",
+      "comment": "Vivo is goood phone",
+      "date": "2023-03-03T19:00:00.000Z",
+      "id": 8
     }
   ]
 }
